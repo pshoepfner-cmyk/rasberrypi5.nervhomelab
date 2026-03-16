@@ -5,27 +5,27 @@ Mein Raspberrypi 5 Homelab Projekt. Das Projekt beinhaltet Dienste wie Monitorin
 
 ### Server: 
         Raspberry Pi 5
-          4GB RAM
-           Running Rasberry Pi OS
+        4GB RAM
+        Running Rasberry Pi OS
 
 ## Software :
 
 ### Services auf dem Docker: 
         Nextcloud (Cloud)
-          Pi-hole (Adblock DNS)
-            Prometheus (Monitoring)
-              Grafana (Monitoring Dashboard)
-                Portainer (Docker Management)
-                  Nginx Proxy Manager (Reverse Proxy)
+        Pi-hole (Adblock DNS)
+        Prometheus (Monitoring)
+        Grafana (Monitoring Dashboard)
+        Portainer (Docker Management)
+        Nginx Proxy Manager (Reverse Proxy)
 
 ### Domain: 
-       nervhome.com
-         nextcloud.nervhome.com
+        nervhome.com
+        nextcloud.nervhome.com
 
 ## Architektur: 
-      Cloudflare Tunnel -> 
-              Nginx Reverse Proxy -> 
-                      Docker Containers
+        Der Zugriff erfolgt durch Cloudflare Tunnel dar ich keine Kontrolle über den Router habe.     
+              
+              Cloudflare Tunnel -> Nginx Reverse Proxy -> Docker Containers
 
              
 
