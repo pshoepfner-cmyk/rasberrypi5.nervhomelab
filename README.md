@@ -28,12 +28,12 @@ Mein Raspberrypi 5 Homelab Projekt. Das Projekt beinhaltet Dienste wie Monitorin
               Cloudflare Tunnel -> Nginx Reverse Proxy -> Docker Containers
 
 ## Screenshots
-        ### Pihole Dashboard        
-        ![Pi-hole Dashboard](pi-hole.jpeg)
-        #### Grafana Monitoring 
-        ![Grafana Dashboard](grafana-dashboard.jpeg)
-        ### Protainer Docker Managment
-        ![Portainer Dashboard](Protainer.jpeg)
+### Pihole Dashboard        
+![Pi-hole Dashboard](pi-hole.jpeg)
+#### Grafana Monitoring 
+![Grafana Dashboard](grafana-dashboard.jpeg)
+### Protainer Docker Managment
+![Portainer Dashboard](Protainer.jpeg)
         
              
 ## Ziele von dem Projekt:
