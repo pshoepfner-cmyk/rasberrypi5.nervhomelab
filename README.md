@@ -31,7 +31,7 @@ Mein Raspberrypi 5 Homelab Projekt. Das Projekt beinhaltet Dienste wie Monitorin
 ### Pihole Dashboard        
 ![Pi-hole Dashboard](Pi-hole.jpeg)
 #### Grafana Monitoring 
-![Grafana Dashboard](Grafana Dashboard.jpeg)
+![Grafana Dashboard](Grafana-Dashboard.jpeg)
 ### Protainer Docker Managment
 ![Portainer Dashboard](Protainer.jpeg)
         
