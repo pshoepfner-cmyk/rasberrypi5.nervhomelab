@@ -4,19 +4,19 @@ Mein Raspberrypi 5 Homelab Projekt. Das Projekt beinhaltet Dienste wie Monitorin
 ## Hardware:
 
 ### Server: 
-        Raspberry Pi 5
-        4GB RAM
-        Running Rasberry Pi OS
+Raspberry Pi 5
+4GB RAM
+Running Rasberry Pi OS
 
 ## Software :
 
 ### Services auf dem Docker: 
-        Nextcloud (Cloud)
-        Pi-hole (Adblock DNS)
-        Prometheus (Monitoring)
-        Grafana (Monitoring Dashboard)
-        Portainer (Docker Management)
-        Nginx Proxy Manager (Reverse Proxy)
+Nextcloud (Cloud)
+Pi-hole (Adblock DNS)
+Prometheus (Monitoring)
+Grafana (Monitoring Dashboard)
+Portainer (Docker Management)
+Nginx Proxy Manager (Reverse Proxy)
 
 ### Domain: 
         nervhome.com
@@ -39,7 +39,6 @@ Mein Raspberrypi 5 Homelab Projekt. Das Projekt beinhaltet Dienste wie Monitorin
 ## Ziele von dem Projekt:
 
                        Optimierung der Collabora etc. für bessere Auslastung des Rasberry Pi 
-                       Automatische Backups der Cloud
                        Passwort manager
                        API Gateway
                   
