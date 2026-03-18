@@ -26,7 +26,7 @@ nextcloud.nervhome.com
 ## Architektur: 
 Der Zugriff erfolgt durch Cloudflare Tunnel dar ich keine Kontrolle über den Router habe.     
               
-Cloudflare Tunnel -> Nginx Reverse Proxy -> Docker Containers
+Cloudflare Tunnel -> Nginx Reverse Proxy -> Container
 
 ### Diagramm
 ![Diagramm Dashboard](DiaHomelabnervprov4.drawio.png)
