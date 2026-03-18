@@ -38,11 +38,13 @@ Cloudflare Tunnel -> Nginx Reverse Proxy -> Container
 ### Protainer Docker Managment
 ![Portainer Dashboard](Protainer.jpeg)
         
+
+
              
 ## Ziele von dem Projekt:
 
-Optimierung von Nextcloud etc. für bessere Auslastung des Rasberry Pi 
-Passwort manager
-API Gateway
-Wireguard
+Optimierung von Nextcloud etc. für bessere Auslastung des Rasberry Pi, 
+Passwort manager, 
+API Gateway, 
+Wireguard, 
                   
