@@ -17,15 +17,16 @@ Prometheus (Monitoring)
 Grafana (Monitoring Dashboard)
 Portainer (Docker Management)
 Nginx Proxy Manager (Reverse Proxy)
+Ufw (Firewall)
 
 ### Domain: 
-        nervhome.com
-        nextcloud.nervhome.com
+nervhome.com
+nextcloud.nervhome.com
 
 ## Architektur: 
-        Der Zugriff erfolgt durch Cloudflare Tunnel dar ich keine Kontrolle über den Router habe.     
+Der Zugriff erfolgt durch Cloudflare Tunnel dar ich keine Kontrolle über den Router habe.     
               
-              Cloudflare Tunnel -> Nginx Reverse Proxy -> Docker Containers
+Cloudflare Tunnel -> Nginx Reverse Proxy -> Docker Containers
 
 ## Screenshots
 ### Pihole Dashboard        
@@ -38,7 +39,8 @@ Nginx Proxy Manager (Reverse Proxy)
              
 ## Ziele von dem Projekt:
 
-                       Optimierung der Collabora etc. für bessere Auslastung des Rasberry Pi 
-                       Passwort manager
-                       API Gateway
+Optimierung von Nextcloud etc. für bessere Auslastung des Rasberry Pi 
+Passwort manager
+API Gateway
+Wireguard
                   
