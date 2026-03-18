@@ -6,7 +6,7 @@ Mein Raspberrypi 5 Homelab Projekt. Das Projekt beinhaltet Dienste wie Monitorin
 ### Server: 
 Raspberry Pi 5
 4GB RAM
-Running Rasberry Pi OS
+Running Rasberry Pi OS Lite
 
 ## Software :
 
