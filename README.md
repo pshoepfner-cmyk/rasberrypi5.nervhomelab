@@ -28,6 +28,8 @@ Der Zugriff erfolgt durch Cloudflare Tunnel dar ich keine Kontrolle über den Ro
               
 Cloudflare Tunnel -> Nginx Reverse Proxy -> Docker Containers
 
+### Diagramm
+![Diagramm Dashboard](Diagramm.png)
 ## Screenshots
 ### Pihole Dashboard        
 ![Pi-hole Dashboard](Pi-hole.jpeg)
